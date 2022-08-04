@@ -1,0 +1,7 @@
+C:\Users\prataph.padi\source\repos\Assigment\Assigment\obj\Debug\net5.0\Assigment.csproj.AssemblyReference.cache
+C:\Users\prataph.padi\source\repos\Assigment\Assigment\obj\Debug\net5.0\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prataph.padi\source\repos\Assigment\Assigment\obj\Debug\net5.0\Assigment.AssemblyInfoInputs.cache
+C:\Users\prataph.padi\source\repos\Assigment\Assigment\obj\Debug\net5.0\Assigment.AssemblyInfo.cs
+C:\Users\prataph.padi\source\repos\Assigment\Assigment\obj\Debug\net5.0\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\prataph.padi\source\repos\Assigment\Assigment\obj\Debug\net5.0\Assigment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prataph.padi\source\repos\Assigment\Assigment\obj\Debug\net5.0\Assigment.MvcApplicationPartsAssemblyInfo.cache
